@@ -1,4 +1,4 @@
-# EmpowerKids
+# Lawsphere-A gamified platform for legal education and and public empowernment.
 Development of gamified platform on Children's Rights to increase legal literacy and awareness among children in India
 
 Legal literacy and knowing one's rights are vital for fairness and justice in India and worldwide. 
@@ -10,6 +10,6 @@ It attempts to increase children's participation in legal procedures and contrib
 The project's goals, features, problems, and anticipated impact are described in the presentation.
 
 
-EmpowerKids Prototype: https://drive.google.com/file/d/1-2HjtLP7Bqo5JgGT5sA9CdWqXtgOO2iS/view?usp=drive_link
+
 
 
